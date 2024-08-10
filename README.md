@@ -15,13 +15,6 @@ We are sure that we will face many issues during this project, and our main issu
 
 * Version
 
-### Students ###
-
-* Faruq Olamilekan Ibrahim
-* Nikita Kurenkov
-* Martin Hansschmidt
-* Jaan Hendrik Tomp
-
 ### Component list ###
 
 | Item | Link to the item | We will provide | Need from instructors | 3D print | Total |
